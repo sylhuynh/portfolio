@@ -21,11 +21,6 @@
     transition: color 170ms ease-in-out;
 }
 
-.nav-link:focus {
-    color: black;
-    transition: color 170ms ease-in-out;
-}
-
 /* Homepage img */
 .homepage-img {
     width: 100%;
