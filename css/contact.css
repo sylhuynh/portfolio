@@ -21,6 +21,13 @@
     transition: color 170ms ease-in-out;
 }
 
+/* Header */
+h1 {
+    text-align: center;
+    font-family: 'Sen', sans-serif;
+    padding: 10px;
+}
+
 /* Footer */
 footer {
     background-color: #FAEBD7;
