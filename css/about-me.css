@@ -26,6 +26,10 @@
   }
 
 /* About me section with img */
+.container {
+    padding: 30px;
+}
+
 .card-header {
     font-family: 'Sen', sans-serif;
     text-align: right;
