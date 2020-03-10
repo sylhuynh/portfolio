@@ -1,0 +1,52 @@
+/* Navigation bar */
+.navbar {
+    background-color: #FAEBD7;
+}
+
+.navbar-brand {
+    font-family: 'Vollkorn', serif;
+    color: black;
+    pointer-events: none;
+    margin: 5px;
+}
+
+.nav-link {
+    font-family: 'Sen', sans-serif;
+    font-size: 12px;
+    color: black;
+}
+
+.nav-link:hover {
+    color:rgba(0,0,0,.4);
+    transition: color 170ms ease-in-out;
+}
+
+/* Footer */
+footer {
+    background-color: #FAEBD7;
+}
+
+.wrapper {
+    padding: 10px;
+}
+
+.networking-icons {
+    text-align: center;
+    padding: 6px;
+}
+
+.networking-icons a {
+    color: black;
+}
+
+.networking-icons a:hover {
+    color:rgba(0,0,0,.4);
+    transition: color 170ms ease-in-out;
+}
+
+.wrapper p {
+    text-align: center;
+    font-size: 12px;
+    font-family: 'Sen', sans-serif;
+    margin-bottom: 0;
+}
