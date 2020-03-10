@@ -26,6 +26,14 @@
     background-color: #f5f5f5;
 }
 
+.display-4 {
+    font-family: 'Pacifico', cursive;
+}
+
+.lead {
+    font-family: 'Sen', sans-serif;
+}
+
 /* Footer */
 footer {
     background-color: #FAEBD7;
