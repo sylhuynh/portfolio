@@ -38,6 +38,10 @@
     text-align: center;
 }
 
+.progress-color {
+    background-color: #fdccc6;
+}
+
 /* Footer */
 footer {
     background-color: #FAEBD7;
