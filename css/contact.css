@@ -28,6 +28,15 @@ h1 {
     padding: 10px;
 }
 
+/* Contact Form */
+.form-control, .btn {
+    margin: 6px;
+}
+
+.btn {
+    margin-bottom: 40px;
+}
+
 /* Footer */
 footer {
     background-color: #FAEBD7;
