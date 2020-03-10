@@ -54,6 +54,11 @@ footer {
     color: black;
 }
 
+.networking-icons a:hover {
+    color:rgba(0,0,0,.4);
+    transition: color 170ms ease-in-out;
+}
+
 .wrapper p {
     text-align: center;
     font-size: 12px;
