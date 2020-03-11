@@ -72,5 +72,5 @@ footer {
 
 /* Media Query */
 @media (max-width: 400x) {
-    .nav-minimize {display: none !important;}
+    .nav-minimize {display: none !important;}    
 }
