@@ -71,11 +71,6 @@ footer {
 }
 
 /* Media Query */
-
-@media (min-width: 768px) {
-    .nav-disappear {display: none !important;}
-}    
-    
-@media (max-width: 768px) {
-    .tab-disappear {display: none !important;}
+@media (max-width: 400x) {
+    .nav-minimize {display: none !important;}
 }
