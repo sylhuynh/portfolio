@@ -69,3 +69,13 @@ footer {
     font-family: 'Sen', sans-serif;
     margin-bottom: 0;
 }
+
+/* Media Query */
+
+@media (min-width: 768px) {
+    .nav-disappear {display: none !important;}
+}    
+    
+@media (max-width: 768px) {
+    .tab-disappear {display: none !important;}
+}
