@@ -71,3 +71,8 @@ footer {
     font-family: 'Sen', sans-serif;
     margin-bottom: 0;
 }
+
+/* Media Query */
+@media (max-width: 400x) {
+    .nav-minimize {display: none !important;}
+}
