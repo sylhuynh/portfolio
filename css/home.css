@@ -31,6 +31,9 @@
 /* Footer */
 footer {
     background-color: #FAEBD7;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
 
 .wrapper {
